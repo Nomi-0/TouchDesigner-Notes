@@ -9,3 +9,13 @@
 
 # Develop
 1. [WebDev](https://github.com/Nomi-0/TouchDesigner-Notes/blob/main/WebDev.md)
+
+# Channels
+1. [TheInteractiveImmersiveHQ](https://www.youtube.com/c/TheInteractiveImmersiveHQ)
+2. Matthew Ragan | matthewragan.com
+3. Ian Shelanskey | design.ianshelanskey.com
+4. Barak Koren | Barakooda
+
+# Tools
+1. [Useful tools](https://olib.amb-service.net/component/particle-walker)
+2. [TD-Examples](https://github.com/raganmd/TD-Examples)
