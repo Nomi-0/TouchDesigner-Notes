@@ -109,6 +109,8 @@ classifier("I've been waiting for a HuggingFace course my whole life.")
 ![image](https://user-images.githubusercontent.com/56717775/182523250-094fb7b9-1662-461b-a10c-ebac6c243a89.png)
 
 # 测试深度图代码
+[online test](https://huggingface.co/spaces/nielsr/dpt-depth-estimation/tree/main)
+[dpt-large](https://huggingface.co/Intel/dpt-large)
 
 [下载模型](https://blog.csdn.net/weixin_41862755/article/details/120686480)
 
